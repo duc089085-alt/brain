@@ -1,0 +1,834 @@
+=== KHÁC ===
+1. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+14. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+18. Scala – Kết hợp OOP + functional, chạy JVM.
+21. Bash – Script tự động hoá trong Linux/Unix.
+22. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+34. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+40. Crystal – Ruby cú pháp, tốc độ gần C.
+43. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+44. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+45. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+46. Pony – Song song an toàn, mô hình actor.
+49. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+52. Ballerina – Tích hợp hệ thống cloud và service.
+53. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+57. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+60. Tcl – Ngôn ngữ script, nhúng, automation.
+62. Sed – Công cụ xử lý dòng văn bản.
+63. D – Hậu duệ C++, hiệu năng cao.
+65. AutoIt – Tự động hoá Windows GUI.
+66. AutoHotkey – Hotkey, automation trên Windows.
+76. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+77. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+83. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+96. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+100. Scala – Kết hợp OOP + functional, chạy JVM.
+103. Bash – Script tự động hoá trong Linux/Unix.
+104. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+116. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+122. Crystal – Ruby cú pháp, tốc độ gần C.
+125. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+126. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+127. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+128. Pony – Song song an toàn, mô hình actor.
+131. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+134. Ballerina – Tích hợp hệ thống cloud và service.
+135. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+139. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+142. Tcl – Ngôn ngữ script, nhúng, automation.
+144. Sed – Công cụ xử lý dòng văn bản.
+145. D – Hậu duệ C++, hiệu năng cao.
+147. AutoIt – Tự động hoá Windows GUI.
+148. AutoHotkey – Hotkey, automation trên Windows.
+158. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+159. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+165. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+178. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+182. Scala – Kết hợp OOP + functional, chạy JVM.
+185. Bash – Script tự động hoá trong Linux/Unix.
+186. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+198. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+204. Crystal – Ruby cú pháp, tốc độ gần C.
+207. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+208. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+209. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+210. Pony – Song song an toàn, mô hình actor.
+213. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+216. Ballerina – Tích hợp hệ thống cloud và service.
+217. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+221. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+224. Tcl – Ngôn ngữ script, nhúng, automation.
+226. Sed – Công cụ xử lý dòng văn bản.
+227. D – Hậu duệ C++, hiệu năng cao.
+229. AutoIt – Tự động hoá Windows GUI.
+230. AutoHotkey – Hotkey, automation trên Windows.
+240. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+241. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+247. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+260. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+264. Scala – Kết hợp OOP + functional, chạy JVM.
+267. Bash – Script tự động hoá trong Linux/Unix.
+268. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+280. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+286. Crystal – Ruby cú pháp, tốc độ gần C.
+289. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+290. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+291. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+292. Pony – Song song an toàn, mô hình actor.
+295. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+298. Ballerina – Tích hợp hệ thống cloud và service.
+299. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+303. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+306. Tcl – Ngôn ngữ script, nhúng, automation.
+308. Sed – Công cụ xử lý dòng văn bản.
+309. D – Hậu duệ C++, hiệu năng cao.
+311. AutoIt – Tự động hoá Windows GUI.
+312. AutoHotkey – Hotkey, automation trên Windows.
+322. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+323. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+329. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+342. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+346. Scala – Kết hợp OOP + functional, chạy JVM.
+349. Bash – Script tự động hoá trong Linux/Unix.
+350. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+362. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+368. Crystal – Ruby cú pháp, tốc độ gần C.
+371. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+372. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+373. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+374. Pony – Song song an toàn, mô hình actor.
+377. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+380. Ballerina – Tích hợp hệ thống cloud và service.
+381. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+385. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+388. Tcl – Ngôn ngữ script, nhúng, automation.
+390. Sed – Công cụ xử lý dòng văn bản.
+391. D – Hậu duệ C++, hiệu năng cao.
+393. AutoIt – Tự động hoá Windows GUI.
+394. AutoHotkey – Hotkey, automation trên Windows.
+404. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+405. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+411. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+424. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+428. Scala – Kết hợp OOP + functional, chạy JVM.
+431. Bash – Script tự động hoá trong Linux/Unix.
+432. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+444. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+450. Crystal – Ruby cú pháp, tốc độ gần C.
+453. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+454. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+455. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+456. Pony – Song song an toàn, mô hình actor.
+459. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+462. Ballerina – Tích hợp hệ thống cloud và service.
+463. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+467. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+470. Tcl – Ngôn ngữ script, nhúng, automation.
+472. Sed – Công cụ xử lý dòng văn bản.
+473. D – Hậu duệ C++, hiệu năng cao.
+475. AutoIt – Tự động hoá Windows GUI.
+476. AutoHotkey – Hotkey, automation trên Windows.
+486. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+487. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+493. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+506. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+510. Scala – Kết hợp OOP + functional, chạy JVM.
+513. Bash – Script tự động hoá trong Linux/Unix.
+514. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+526. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+532. Crystal – Ruby cú pháp, tốc độ gần C.
+535. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+536. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+537. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+538. Pony – Song song an toàn, mô hình actor.
+541. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+544. Ballerina – Tích hợp hệ thống cloud và service.
+545. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+549. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+552. Tcl – Ngôn ngữ script, nhúng, automation.
+554. Sed – Công cụ xử lý dòng văn bản.
+555. D – Hậu duệ C++, hiệu năng cao.
+557. AutoIt – Tự động hoá Windows GUI.
+558. AutoHotkey – Hotkey, automation trên Windows.
+568. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+569. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+575. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+588. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+592. Scala – Kết hợp OOP + functional, chạy JVM.
+595. Bash – Script tự động hoá trong Linux/Unix.
+596. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+608. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+614. Crystal – Ruby cú pháp, tốc độ gần C.
+617. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+618. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+619. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+620. Pony – Song song an toàn, mô hình actor.
+623. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+626. Ballerina – Tích hợp hệ thống cloud và service.
+627. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+631. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+634. Tcl – Ngôn ngữ script, nhúng, automation.
+636. Sed – Công cụ xử lý dòng văn bản.
+637. D – Hậu duệ C++, hiệu năng cao.
+639. AutoIt – Tự động hoá Windows GUI.
+640. AutoHotkey – Hotkey, automation trên Windows.
+650. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+651. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+657. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+670. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+674. Scala – Kết hợp OOP + functional, chạy JVM.
+677. Bash – Script tự động hoá trong Linux/Unix.
+678. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+690. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+696. Crystal – Ruby cú pháp, tốc độ gần C.
+699. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+700. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+701. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+702. Pony – Song song an toàn, mô hình actor.
+705. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+708. Ballerina – Tích hợp hệ thống cloud và service.
+709. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+713. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+716. Tcl – Ngôn ngữ script, nhúng, automation.
+718. Sed – Công cụ xử lý dòng văn bản.
+719. D – Hậu duệ C++, hiệu năng cao.
+721. AutoIt – Tự động hoá Windows GUI.
+722. AutoHotkey – Hotkey, automation trên Windows.
+732. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+733. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+739. C – Ngôn ngữ hệ thống, viết OS, driver, nhúng.
+752. Dart – Ngôn ngữ Flutter, app đa nền tảng.
+756. Scala – Kết hợp OOP + functional, chạy JVM.
+759. Bash – Script tự động hoá trong Linux/Unix.
+760. Assembly – Ngôn ngữ máy, lập trình nhúng, tối ưu CPU.
+772. Smalltalk – OOP thuần tuý, lịch sử quan trọng.
+778. Crystal – Ruby cú pháp, tốc độ gần C.
+781. Nim – Ngôn ngữ hệ thống nhẹ, cú pháp gần Python.
+782. Zig – Thay thế C, an toàn bộ nhớ, nhúng.
+783. V – Ngôn ngữ đơn giản, biên dịch nhanh.
+784. Pony – Song song an toàn, mô hình actor.
+787. Gleam – Ngôn ngữ hàm trên BEAM (Erlang VM).
+790. Ballerina – Tích hợp hệ thống cloud và service.
+791. PowerShell – Tự động hoá Windows, quản trị hệ thống.
+795. Forth – Ngôn ngữ nhúng, hệ thống nhỏ.
+798. Tcl – Ngôn ngữ script, nhúng, automation.
+800. Sed – Công cụ xử lý dòng văn bản.
+801. D – Hậu duệ C++, hiệu năng cao.
+803. AutoIt – Tự động hoá Windows GUI.
+804. AutoHotkey – Hotkey, automation trên Windows.
+814. Piet – Ngôn ngữ lập trình bằng hình ảnh.
+815. Whitespace – Ngôn ngữ chỉ dùng space/tab/newline.
+
+=== GAME ===
+2. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+64. Lua – Nhúng game, scripting nhẹ.
+67. UnrealScript – Lập trình game Unreal Engine cũ.
+68. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+69. GDScript – Ngôn ngữ trong Godot Engine.
+71. Ink – Viết truyện tương tác, game narrative.
+84. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+146. Lua – Nhúng game, scripting nhẹ.
+149. UnrealScript – Lập trình game Unreal Engine cũ.
+150. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+151. GDScript – Ngôn ngữ trong Godot Engine.
+153. Ink – Viết truyện tương tác, game narrative.
+166. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+228. Lua – Nhúng game, scripting nhẹ.
+231. UnrealScript – Lập trình game Unreal Engine cũ.
+232. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+233. GDScript – Ngôn ngữ trong Godot Engine.
+235. Ink – Viết truyện tương tác, game narrative.
+248. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+310. Lua – Nhúng game, scripting nhẹ.
+313. UnrealScript – Lập trình game Unreal Engine cũ.
+314. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+315. GDScript – Ngôn ngữ trong Godot Engine.
+317. Ink – Viết truyện tương tác, game narrative.
+330. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+392. Lua – Nhúng game, scripting nhẹ.
+395. UnrealScript – Lập trình game Unreal Engine cũ.
+396. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+397. GDScript – Ngôn ngữ trong Godot Engine.
+399. Ink – Viết truyện tương tác, game narrative.
+412. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+474. Lua – Nhúng game, scripting nhẹ.
+477. UnrealScript – Lập trình game Unreal Engine cũ.
+478. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+479. GDScript – Ngôn ngữ trong Godot Engine.
+481. Ink – Viết truyện tương tác, game narrative.
+494. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+556. Lua – Nhúng game, scripting nhẹ.
+559. UnrealScript – Lập trình game Unreal Engine cũ.
+560. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+561. GDScript – Ngôn ngữ trong Godot Engine.
+563. Ink – Viết truyện tương tác, game narrative.
+576. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+638. Lua – Nhúng game, scripting nhẹ.
+641. UnrealScript – Lập trình game Unreal Engine cũ.
+642. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+643. GDScript – Ngôn ngữ trong Godot Engine.
+645. Ink – Viết truyện tương tác, game narrative.
+658. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+720. Lua – Nhúng game, scripting nhẹ.
+723. UnrealScript – Lập trình game Unreal Engine cũ.
+724. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+725. GDScript – Ngôn ngữ trong Godot Engine.
+727. Ink – Viết truyện tương tác, game narrative.
+740. C++ – Mạnh về hệ thống, game, hiệu năng cao.
+802. Lua – Nhúng game, scripting nhẹ.
+805. UnrealScript – Lập trình game Unreal Engine cũ.
+806. Blueprint – Ngôn ngữ trực quan trong Unreal Engine.
+807. GDScript – Ngôn ngữ trong Godot Engine.
+809. Ink – Viết truyện tương tác, game narrative.
+
+=== PHỔ BIẾN ===
+3. Java – Ứng dụng doanh nghiệp, Android, OOP.
+4. Python – Đa năng, AI, dữ liệu, web.
+5. C# – Ứng dụng Windows, game Unity, web.
+6. JavaScript – Web front-end, back-end (Node.js).
+7. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+8. PHP – Lập trình web server-side.
+9. Ruby – Web (Ruby on Rails), scripting.
+10. Swift – Ứng dụng iOS/macOS.
+11. Kotlin – Ứng dụng Android, thay thế Java.
+12. Go – Hiệu năng cao, server, cloud, microservices.
+13. Rust – An toàn bộ nhớ, hệ thống, web backend.
+17. Perl – Xử lý text, quản trị hệ thống, web.
+19. Objective-C – Ứng dụng iOS/macOS cũ.
+36. Delphi – Ứng dụng desktop nhanh chóng.
+41. Elm – Ngôn ngữ hàm cho web frontend.
+42. Elixir – Dựa trên Erlang, web, phân tán.
+50. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+54. Visual Basic – Ứng dụng Windows, dễ học.
+55. VB.NET – Ứng dụng .NET Framework.
+56. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+58. ActionScript – Ứng dụng Flash (đã lỗi thời).
+59. Groovy – Ngôn ngữ động trên JVM, web.
+85. Java – Ứng dụng doanh nghiệp, Android, OOP.
+86. Python – Đa năng, AI, dữ liệu, web.
+87. C# – Ứng dụng Windows, game Unity, web.
+88. JavaScript – Web front-end, back-end (Node.js).
+89. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+90. PHP – Lập trình web server-side.
+91. Ruby – Web (Ruby on Rails), scripting.
+92. Swift – Ứng dụng iOS/macOS.
+93. Kotlin – Ứng dụng Android, thay thế Java.
+94. Go – Hiệu năng cao, server, cloud, microservices.
+95. Rust – An toàn bộ nhớ, hệ thống, web backend.
+99. Perl – Xử lý text, quản trị hệ thống, web.
+101. Objective-C – Ứng dụng iOS/macOS cũ.
+118. Delphi – Ứng dụng desktop nhanh chóng.
+123. Elm – Ngôn ngữ hàm cho web frontend.
+124. Elixir – Dựa trên Erlang, web, phân tán.
+132. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+136. Visual Basic – Ứng dụng Windows, dễ học.
+137. VB.NET – Ứng dụng .NET Framework.
+138. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+140. ActionScript – Ứng dụng Flash (đã lỗi thời).
+141. Groovy – Ngôn ngữ động trên JVM, web.
+167. Java – Ứng dụng doanh nghiệp, Android, OOP.
+168. Python – Đa năng, AI, dữ liệu, web.
+169. C# – Ứng dụng Windows, game Unity, web.
+170. JavaScript – Web front-end, back-end (Node.js).
+171. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+172. PHP – Lập trình web server-side.
+173. Ruby – Web (Ruby on Rails), scripting.
+174. Swift – Ứng dụng iOS/macOS.
+175. Kotlin – Ứng dụng Android, thay thế Java.
+176. Go – Hiệu năng cao, server, cloud, microservices.
+177. Rust – An toàn bộ nhớ, hệ thống, web backend.
+181. Perl – Xử lý text, quản trị hệ thống, web.
+183. Objective-C – Ứng dụng iOS/macOS cũ.
+200. Delphi – Ứng dụng desktop nhanh chóng.
+205. Elm – Ngôn ngữ hàm cho web frontend.
+206. Elixir – Dựa trên Erlang, web, phân tán.
+214. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+218. Visual Basic – Ứng dụng Windows, dễ học.
+219. VB.NET – Ứng dụng .NET Framework.
+220. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+222. ActionScript – Ứng dụng Flash (đã lỗi thời).
+223. Groovy – Ngôn ngữ động trên JVM, web.
+249. Java – Ứng dụng doanh nghiệp, Android, OOP.
+250. Python – Đa năng, AI, dữ liệu, web.
+251. C# – Ứng dụng Windows, game Unity, web.
+252. JavaScript – Web front-end, back-end (Node.js).
+253. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+254. PHP – Lập trình web server-side.
+255. Ruby – Web (Ruby on Rails), scripting.
+256. Swift – Ứng dụng iOS/macOS.
+257. Kotlin – Ứng dụng Android, thay thế Java.
+258. Go – Hiệu năng cao, server, cloud, microservices.
+259. Rust – An toàn bộ nhớ, hệ thống, web backend.
+263. Perl – Xử lý text, quản trị hệ thống, web.
+265. Objective-C – Ứng dụng iOS/macOS cũ.
+282. Delphi – Ứng dụng desktop nhanh chóng.
+287. Elm – Ngôn ngữ hàm cho web frontend.
+288. Elixir – Dựa trên Erlang, web, phân tán.
+296. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+300. Visual Basic – Ứng dụng Windows, dễ học.
+301. VB.NET – Ứng dụng .NET Framework.
+302. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+304. ActionScript – Ứng dụng Flash (đã lỗi thời).
+305. Groovy – Ngôn ngữ động trên JVM, web.
+331. Java – Ứng dụng doanh nghiệp, Android, OOP.
+332. Python – Đa năng, AI, dữ liệu, web.
+333. C# – Ứng dụng Windows, game Unity, web.
+334. JavaScript – Web front-end, back-end (Node.js).
+335. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+336. PHP – Lập trình web server-side.
+337. Ruby – Web (Ruby on Rails), scripting.
+338. Swift – Ứng dụng iOS/macOS.
+339. Kotlin – Ứng dụng Android, thay thế Java.
+340. Go – Hiệu năng cao, server, cloud, microservices.
+341. Rust – An toàn bộ nhớ, hệ thống, web backend.
+345. Perl – Xử lý text, quản trị hệ thống, web.
+347. Objective-C – Ứng dụng iOS/macOS cũ.
+364. Delphi – Ứng dụng desktop nhanh chóng.
+369. Elm – Ngôn ngữ hàm cho web frontend.
+370. Elixir – Dựa trên Erlang, web, phân tán.
+378. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+382. Visual Basic – Ứng dụng Windows, dễ học.
+383. VB.NET – Ứng dụng .NET Framework.
+384. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+386. ActionScript – Ứng dụng Flash (đã lỗi thời).
+387. Groovy – Ngôn ngữ động trên JVM, web.
+413. Java – Ứng dụng doanh nghiệp, Android, OOP.
+414. Python – Đa năng, AI, dữ liệu, web.
+415. C# – Ứng dụng Windows, game Unity, web.
+416. JavaScript – Web front-end, back-end (Node.js).
+417. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+418. PHP – Lập trình web server-side.
+419. Ruby – Web (Ruby on Rails), scripting.
+420. Swift – Ứng dụng iOS/macOS.
+421. Kotlin – Ứng dụng Android, thay thế Java.
+422. Go – Hiệu năng cao, server, cloud, microservices.
+423. Rust – An toàn bộ nhớ, hệ thống, web backend.
+427. Perl – Xử lý text, quản trị hệ thống, web.
+429. Objective-C – Ứng dụng iOS/macOS cũ.
+446. Delphi – Ứng dụng desktop nhanh chóng.
+451. Elm – Ngôn ngữ hàm cho web frontend.
+452. Elixir – Dựa trên Erlang, web, phân tán.
+460. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+464. Visual Basic – Ứng dụng Windows, dễ học.
+465. VB.NET – Ứng dụng .NET Framework.
+466. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+468. ActionScript – Ứng dụng Flash (đã lỗi thời).
+469. Groovy – Ngôn ngữ động trên JVM, web.
+495. Java – Ứng dụng doanh nghiệp, Android, OOP.
+496. Python – Đa năng, AI, dữ liệu, web.
+497. C# – Ứng dụng Windows, game Unity, web.
+498. JavaScript – Web front-end, back-end (Node.js).
+499. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+500. PHP – Lập trình web server-side.
+501. Ruby – Web (Ruby on Rails), scripting.
+502. Swift – Ứng dụng iOS/macOS.
+503. Kotlin – Ứng dụng Android, thay thế Java.
+504. Go – Hiệu năng cao, server, cloud, microservices.
+505. Rust – An toàn bộ nhớ, hệ thống, web backend.
+509. Perl – Xử lý text, quản trị hệ thống, web.
+511. Objective-C – Ứng dụng iOS/macOS cũ.
+528. Delphi – Ứng dụng desktop nhanh chóng.
+533. Elm – Ngôn ngữ hàm cho web frontend.
+534. Elixir – Dựa trên Erlang, web, phân tán.
+542. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+546. Visual Basic – Ứng dụng Windows, dễ học.
+547. VB.NET – Ứng dụng .NET Framework.
+548. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+550. ActionScript – Ứng dụng Flash (đã lỗi thời).
+551. Groovy – Ngôn ngữ động trên JVM, web.
+577. Java – Ứng dụng doanh nghiệp, Android, OOP.
+578. Python – Đa năng, AI, dữ liệu, web.
+579. C# – Ứng dụng Windows, game Unity, web.
+580. JavaScript – Web front-end, back-end (Node.js).
+581. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+582. PHP – Lập trình web server-side.
+583. Ruby – Web (Ruby on Rails), scripting.
+584. Swift – Ứng dụng iOS/macOS.
+585. Kotlin – Ứng dụng Android, thay thế Java.
+586. Go – Hiệu năng cao, server, cloud, microservices.
+587. Rust – An toàn bộ nhớ, hệ thống, web backend.
+591. Perl – Xử lý text, quản trị hệ thống, web.
+593. Objective-C – Ứng dụng iOS/macOS cũ.
+610. Delphi – Ứng dụng desktop nhanh chóng.
+615. Elm – Ngôn ngữ hàm cho web frontend.
+616. Elixir – Dựa trên Erlang, web, phân tán.
+624. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+628. Visual Basic – Ứng dụng Windows, dễ học.
+629. VB.NET – Ứng dụng .NET Framework.
+630. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+632. ActionScript – Ứng dụng Flash (đã lỗi thời).
+633. Groovy – Ngôn ngữ động trên JVM, web.
+659. Java – Ứng dụng doanh nghiệp, Android, OOP.
+660. Python – Đa năng, AI, dữ liệu, web.
+661. C# – Ứng dụng Windows, game Unity, web.
+662. JavaScript – Web front-end, back-end (Node.js).
+663. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+664. PHP – Lập trình web server-side.
+665. Ruby – Web (Ruby on Rails), scripting.
+666. Swift – Ứng dụng iOS/macOS.
+667. Kotlin – Ứng dụng Android, thay thế Java.
+668. Go – Hiệu năng cao, server, cloud, microservices.
+669. Rust – An toàn bộ nhớ, hệ thống, web backend.
+673. Perl – Xử lý text, quản trị hệ thống, web.
+675. Objective-C – Ứng dụng iOS/macOS cũ.
+692. Delphi – Ứng dụng desktop nhanh chóng.
+697. Elm – Ngôn ngữ hàm cho web frontend.
+698. Elixir – Dựa trên Erlang, web, phân tán.
+706. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+710. Visual Basic – Ứng dụng Windows, dễ học.
+711. VB.NET – Ứng dụng .NET Framework.
+712. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+714. ActionScript – Ứng dụng Flash (đã lỗi thời).
+715. Groovy – Ngôn ngữ động trên JVM, web.
+741. Java – Ứng dụng doanh nghiệp, Android, OOP.
+742. Python – Đa năng, AI, dữ liệu, web.
+743. C# – Ứng dụng Windows, game Unity, web.
+744. JavaScript – Web front-end, back-end (Node.js).
+745. TypeScript – JavaScript có kiểu tĩnh, web hiện đại.
+746. PHP – Lập trình web server-side.
+747. Ruby – Web (Ruby on Rails), scripting.
+748. Swift – Ứng dụng iOS/macOS.
+749. Kotlin – Ứng dụng Android, thay thế Java.
+750. Go – Hiệu năng cao, server, cloud, microservices.
+751. Rust – An toàn bộ nhớ, hệ thống, web backend.
+755. Perl – Xử lý text, quản trị hệ thống, web.
+757. Objective-C – Ứng dụng iOS/macOS cũ.
+774. Delphi – Ứng dụng desktop nhanh chóng.
+779. Elm – Ngôn ngữ hàm cho web frontend.
+780. Elixir – Dựa trên Erlang, web, phân tán.
+788. Red – Hậu duệ của Rebol, app desktop nhỏ gọn.
+792. Visual Basic – Ứng dụng Windows, dễ học.
+793. VB.NET – Ứng dụng .NET Framework.
+794. RPG – Ngôn ngữ IBM, ứng dụng kinh doanh.
+796. ActionScript – Ứng dụng Flash (đã lỗi thời).
+797. Groovy – Ngôn ngữ động trên JVM, web.
+
+=== CHUYÊN NGÀNH ===
+15. R – Phân tích thống kê, dữ liệu.
+16. MATLAB – Tính toán khoa học, kỹ thuật.
+20. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+25. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+27. Erlang – Song song, hệ thống telecom, WhatsApp.
+30. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+31. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+32. Fortran – Tính toán khoa học, vật lý, HPC.
+33. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+37. VHDL – Mô tả phần cứng FPGA/ASIC.
+38. Verilog – Thiết kế vi mạch, phần cứng.
+39. Julia – Ngôn ngữ khoa học tính toán nhanh.
+47. Chapel – Ngôn ngữ tính toán song song (HPC).
+51. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+61. Awk – Xử lý văn bản, dữ liệu.
+97. R – Phân tích thống kê, dữ liệu.
+98. MATLAB – Tính toán khoa học, kỹ thuật.
+102. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+107. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+109. Erlang – Song song, hệ thống telecom, WhatsApp.
+112. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+113. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+114. Fortran – Tính toán khoa học, vật lý, HPC.
+115. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+119. VHDL – Mô tả phần cứng FPGA/ASIC.
+120. Verilog – Thiết kế vi mạch, phần cứng.
+121. Julia – Ngôn ngữ khoa học tính toán nhanh.
+129. Chapel – Ngôn ngữ tính toán song song (HPC).
+133. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+143. Awk – Xử lý văn bản, dữ liệu.
+179. R – Phân tích thống kê, dữ liệu.
+180. MATLAB – Tính toán khoa học, kỹ thuật.
+184. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+189. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+191. Erlang – Song song, hệ thống telecom, WhatsApp.
+194. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+195. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+196. Fortran – Tính toán khoa học, vật lý, HPC.
+197. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+201. VHDL – Mô tả phần cứng FPGA/ASIC.
+202. Verilog – Thiết kế vi mạch, phần cứng.
+203. Julia – Ngôn ngữ khoa học tính toán nhanh.
+211. Chapel – Ngôn ngữ tính toán song song (HPC).
+215. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+225. Awk – Xử lý văn bản, dữ liệu.
+261. R – Phân tích thống kê, dữ liệu.
+262. MATLAB – Tính toán khoa học, kỹ thuật.
+266. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+271. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+273. Erlang – Song song, hệ thống telecom, WhatsApp.
+276. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+277. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+278. Fortran – Tính toán khoa học, vật lý, HPC.
+279. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+283. VHDL – Mô tả phần cứng FPGA/ASIC.
+284. Verilog – Thiết kế vi mạch, phần cứng.
+285. Julia – Ngôn ngữ khoa học tính toán nhanh.
+293. Chapel – Ngôn ngữ tính toán song song (HPC).
+297. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+307. Awk – Xử lý văn bản, dữ liệu.
+343. R – Phân tích thống kê, dữ liệu.
+344. MATLAB – Tính toán khoa học, kỹ thuật.
+348. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+353. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+355. Erlang – Song song, hệ thống telecom, WhatsApp.
+358. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+359. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+360. Fortran – Tính toán khoa học, vật lý, HPC.
+361. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+365. VHDL – Mô tả phần cứng FPGA/ASIC.
+366. Verilog – Thiết kế vi mạch, phần cứng.
+367. Julia – Ngôn ngữ khoa học tính toán nhanh.
+375. Chapel – Ngôn ngữ tính toán song song (HPC).
+379. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+389. Awk – Xử lý văn bản, dữ liệu.
+425. R – Phân tích thống kê, dữ liệu.
+426. MATLAB – Tính toán khoa học, kỹ thuật.
+430. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+435. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+437. Erlang – Song song, hệ thống telecom, WhatsApp.
+440. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+441. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+442. Fortran – Tính toán khoa học, vật lý, HPC.
+443. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+447. VHDL – Mô tả phần cứng FPGA/ASIC.
+448. Verilog – Thiết kế vi mạch, phần cứng.
+449. Julia – Ngôn ngữ khoa học tính toán nhanh.
+457. Chapel – Ngôn ngữ tính toán song song (HPC).
+461. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+471. Awk – Xử lý văn bản, dữ liệu.
+507. R – Phân tích thống kê, dữ liệu.
+508. MATLAB – Tính toán khoa học, kỹ thuật.
+512. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+517. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+519. Erlang – Song song, hệ thống telecom, WhatsApp.
+522. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+523. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+524. Fortran – Tính toán khoa học, vật lý, HPC.
+525. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+529. VHDL – Mô tả phần cứng FPGA/ASIC.
+530. Verilog – Thiết kế vi mạch, phần cứng.
+531. Julia – Ngôn ngữ khoa học tính toán nhanh.
+539. Chapel – Ngôn ngữ tính toán song song (HPC).
+543. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+553. Awk – Xử lý văn bản, dữ liệu.
+589. R – Phân tích thống kê, dữ liệu.
+590. MATLAB – Tính toán khoa học, kỹ thuật.
+594. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+599. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+601. Erlang – Song song, hệ thống telecom, WhatsApp.
+604. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+605. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+606. Fortran – Tính toán khoa học, vật lý, HPC.
+607. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+611. VHDL – Mô tả phần cứng FPGA/ASIC.
+612. Verilog – Thiết kế vi mạch, phần cứng.
+613. Julia – Ngôn ngữ khoa học tính toán nhanh.
+621. Chapel – Ngôn ngữ tính toán song song (HPC).
+625. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+635. Awk – Xử lý văn bản, dữ liệu.
+671. R – Phân tích thống kê, dữ liệu.
+672. MATLAB – Tính toán khoa học, kỹ thuật.
+676. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+681. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+683. Erlang – Song song, hệ thống telecom, WhatsApp.
+686. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+687. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+688. Fortran – Tính toán khoa học, vật lý, HPC.
+689. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+693. VHDL – Mô tả phần cứng FPGA/ASIC.
+694. Verilog – Thiết kế vi mạch, phần cứng.
+695. Julia – Ngôn ngữ khoa học tính toán nhanh.
+703. Chapel – Ngôn ngữ tính toán song song (HPC).
+707. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+717. Awk – Xử lý văn bản, dữ liệu.
+753. R – Phân tích thống kê, dữ liệu.
+754. MATLAB – Tính toán khoa học, kỹ thuật.
+758. SQL – Truy vấn và quản lý cơ sở dữ liệu.
+763. Clojure – Lisp hiện đại trên JVM, dữ liệu bất biến.
+765. Erlang – Song song, hệ thống telecom, WhatsApp.
+768. F# – Ngôn ngữ hàm trên .NET, dữ liệu, AI.
+769. Ada – Hệ thống an toàn, quốc phòng, hàng không.
+770. Fortran – Tính toán khoa học, vật lý, HPC.
+771. COBOL – Hệ thống ngân hàng, doanh nghiệp cũ.
+775. VHDL – Mô tả phần cứng FPGA/ASIC.
+776. Verilog – Thiết kế vi mạch, phần cứng.
+777. Julia – Ngôn ngữ khoa học tính toán nhanh.
+785. Chapel – Ngôn ngữ tính toán song song (HPC).
+789. Rebol – Ngôn ngữ đa lĩnh vực, dữ liệu + script.
+799. Awk – Xử lý văn bản, dữ liệu.
+
+=== HỌC THUẬT ===
+23. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+24. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+26. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+29. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+35. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+48. Idris – Ngôn ngữ hàm với dependent types.
+105. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+106. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+108. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+111. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+117. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+130. Idris – Ngôn ngữ hàm với dependent types.
+187. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+188. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+190. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+193. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+199. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+212. Idris – Ngôn ngữ hàm với dependent types.
+269. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+270. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+272. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+275. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+281. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+294. Idris – Ngôn ngữ hàm với dependent types.
+351. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+352. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+354. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+357. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+363. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+376. Idris – Ngôn ngữ hàm với dependent types.
+433. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+434. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+436. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+439. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+445. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+458. Idris – Ngôn ngữ hàm với dependent types.
+515. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+516. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+518. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+521. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+527. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+540. Idris – Ngôn ngữ hàm với dependent types.
+597. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+598. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+600. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+603. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+609. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+622. Idris – Ngôn ngữ hàm với dependent types.
+679. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+680. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+682. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+685. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+691. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+704. Idris – Ngôn ngữ hàm với dependent types.
+761. Lisp – AI, nghiên cứu, ngôn ngữ hàm lâu đời.
+762. Scheme – Biến thể Lisp, giáo dục, nghiên cứu.
+764. Haskell – Ngôn ngữ hàm thuần tuý, nghiên cứu, tài chính.
+767. OCaml – Hàm + OOP, dùng trong nghiên cứu, tài chính.
+773. Pascal – Ngôn ngữ giáo dục, cơ sở Delphi.
+786. Idris – Ngôn ngữ hàm với dependent types.
+
+=== AI ===
+28. Prolog – Lập trình logic, AI, expert systems.
+110. Prolog – Lập trình logic, AI, expert systems.
+192. Prolog – Lập trình logic, AI, expert systems.
+274. Prolog – Lập trình logic, AI, expert systems.
+356. Prolog – Lập trình logic, AI, expert systems.
+438. Prolog – Lập trình logic, AI, expert systems.
+520. Prolog – Lập trình logic, AI, expert systems.
+602. Prolog – Lập trình logic, AI, expert systems.
+684. Prolog – Lập trình logic, AI, expert systems.
+766. Prolog – Lập trình logic, AI, expert systems.
+
+=== ESOTERIC ===
+70. Ren'Py – Tạo visual novel, game tương tác.
+72. Twine – Tạo game/visual novel HTML.
+73. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+74. Befunge – Esoteric, mã chạy đa chiều.
+75. Malbolge – Esoteric, cực khó lập trình.
+78. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+79. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+80. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+81. Rockstar – Esoteric, code như lời bài hát rock.
+82. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+152. Ren'Py – Tạo visual novel, game tương tác.
+154. Twine – Tạo game/visual novel HTML.
+155. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+156. Befunge – Esoteric, mã chạy đa chiều.
+157. Malbolge – Esoteric, cực khó lập trình.
+160. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+161. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+162. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+163. Rockstar – Esoteric, code như lời bài hát rock.
+164. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+234. Ren'Py – Tạo visual novel, game tương tác.
+236. Twine – Tạo game/visual novel HTML.
+237. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+238. Befunge – Esoteric, mã chạy đa chiều.
+239. Malbolge – Esoteric, cực khó lập trình.
+242. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+243. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+244. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+245. Rockstar – Esoteric, code như lời bài hát rock.
+246. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+316. Ren'Py – Tạo visual novel, game tương tác.
+318. Twine – Tạo game/visual novel HTML.
+319. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+320. Befunge – Esoteric, mã chạy đa chiều.
+321. Malbolge – Esoteric, cực khó lập trình.
+324. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+325. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+326. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+327. Rockstar – Esoteric, code như lời bài hát rock.
+328. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+398. Ren'Py – Tạo visual novel, game tương tác.
+400. Twine – Tạo game/visual novel HTML.
+401. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+402. Befunge – Esoteric, mã chạy đa chiều.
+403. Malbolge – Esoteric, cực khó lập trình.
+406. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+407. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+408. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+409. Rockstar – Esoteric, code như lời bài hát rock.
+410. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+480. Ren'Py – Tạo visual novel, game tương tác.
+482. Twine – Tạo game/visual novel HTML.
+483. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+484. Befunge – Esoteric, mã chạy đa chiều.
+485. Malbolge – Esoteric, cực khó lập trình.
+488. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+489. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+490. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+491. Rockstar – Esoteric, code như lời bài hát rock.
+492. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+562. Ren'Py – Tạo visual novel, game tương tác.
+564. Twine – Tạo game/visual novel HTML.
+565. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+566. Befunge – Esoteric, mã chạy đa chiều.
+567. Malbolge – Esoteric, cực khó lập trình.
+570. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+571. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+572. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+573. Rockstar – Esoteric, code như lời bài hát rock.
+574. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+644. Ren'Py – Tạo visual novel, game tương tác.
+646. Twine – Tạo game/visual novel HTML.
+647. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+648. Befunge – Esoteric, mã chạy đa chiều.
+649. Malbolge – Esoteric, cực khó lập trình.
+652. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+653. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+654. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+655. Rockstar – Esoteric, code như lời bài hát rock.
+656. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+726. Ren'Py – Tạo visual novel, game tương tác.
+728. Twine – Tạo game/visual novel HTML.
+729. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+730. Befunge – Esoteric, mã chạy đa chiều.
+731. Malbolge – Esoteric, cực khó lập trình.
+734. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+735. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+736. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+737. Rockstar – Esoteric, code như lời bài hát rock.
+738. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+808. Ren'Py – Tạo visual novel, game tương tác.
+810. Twine – Tạo game/visual novel HTML.
+811. Brainfuck – Ngôn ngữ esoteric, tối giản cực độ.
+812. Befunge – Esoteric, mã chạy đa chiều.
+813. Malbolge – Esoteric, cực khó lập trình.
+816. INTERCAL – Esoteric, khó hiểu, mang tính hài hước.
+817. LOLCODE – Esoteric, cú pháp như ngôn ngữ mạng LOL.
+818. Shakespeare – Esoteric, viết code như kịch Shakespeare.
+819. Rockstar – Esoteric, code như lời bài hát rock.
+820. ArnoldC – Esoteric, cú pháp từ phim Arnold Schwarzenegger.
+
